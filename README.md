@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github](https://github.com/2lana/stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [netlify](https://dreamy-marshmallow-826cb0.netlify.app/)
 
 ## My process
 
